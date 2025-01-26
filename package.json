@@ -1,0 +1,15 @@
+{
+  "name": "my-timetable-app-electron",
+  "version": "1.0.0",
+  "description": "Timetable-Auto-Creation-Electron-App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^34.0.1"
+  }
+}
